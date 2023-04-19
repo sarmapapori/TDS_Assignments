@@ -1,5 +1,4 @@
-import streamlit as st
-pip install --upgrade pip
+pip install streamlit
 
 def app():
     st.title("Find the largest number")
